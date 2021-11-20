@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "guess_the_word_game"
+		},
+		{
+			"path": "practice-activity"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "practice-activity"
+	}
+}
